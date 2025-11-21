@@ -4,7 +4,7 @@
 You can use Amazon S3 to store and retrieve any amount of data at any time from anywhere on the web.
 In this project, you’ll create an S3 bucket to store pictures and files needed for your website and host a static site directly from S3.
 
-![architect]
+![architect](https://github.com/chinmayedm/Host-a-Website-on-Amazon-S3/blob/main/Screenshot%202025-01-05%20at%2021.09.34.png?raw=true)
 
 # Project Overview
 
