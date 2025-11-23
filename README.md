@@ -100,3 +100,4 @@ Make your website files publicly accessible
 View your live website
 
 Use ACLs to make all objects public, then reload your website URL.
+![websiteURL](https://github.com/chinmayedm/Host-a-Website-on-Amazon-S3/blob/main/Screenshot%202025-01-05%20at%2021.51.00.png?raw=true)
