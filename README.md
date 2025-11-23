@@ -43,6 +43,7 @@ Create a storage space for your website files
 9. Enable Bucket Versioning
 
 10. Create bucket
+![S3-bucket](https://github.com/chinmayedm/Host-a-Website-on-Amazon-S3/blob/main/Screenshot%202025-01-05%20at%2021.08.53.png?raw=true)
 
 # What is an ACL? Did you enable or disable ACLs?
 
