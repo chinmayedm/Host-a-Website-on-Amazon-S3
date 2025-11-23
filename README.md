@@ -32,7 +32,7 @@ Create a storage space for your website files
 
 4. Select Create bucket
 
-5. Bucket name: nextwork-website-project-yourname
+5. Bucket name: website-project-yourname
 
 6. Enable ACLs
 
