@@ -92,6 +92,7 @@ Steps:
 8. Open the bucket website endpoint URL
 
 # Step 4 — Make Your S3 Objects Public
+![objects-public](https://github.com/chinmayedm/Host-a-Website-on-Amazon-S3/blob/main/Screenshot%202025-01-05%20at%2021.50.14.png?raw=true)
 
 In this step:
 
