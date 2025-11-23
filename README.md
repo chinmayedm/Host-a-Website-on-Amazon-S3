@@ -50,7 +50,7 @@ Create a storage space for your website files
 An ACL is an Access Control List that controls who can access or modify objects inside the bucket. I enabled ACLs because I need to make individual files public for website hosting.
 
 # Step 2 — Upload Website Content to Your Bucket
-
+![content](https://github.com/chinmayedm/Host-a-Website-on-Amazon-S3/blob/main/Screenshot%202025-01-05%20at%2000.29.41.png?raw=true)
 In this step:
 
 Download the project’s HTML file
